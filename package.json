@@ -1,0 +1,19 @@
+{
+  "name": "profile-edit-settings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://omegamputu: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@github.com/omegamputu/profile-edit-settings.git"
+  },
+  "author": "Omega Mputu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omegamputu/profile-edit-settings/issues"
+  },
+  "homepage": "https://github.com/omegamputu/profile-edit-settings#readme"
+}
