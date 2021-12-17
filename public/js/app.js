@@ -149,16 +149,16 @@ __webpack_require__.r(__webpack_exports__);
     //
     editName: function editName(e) {
       e.preventDefault();
+      console.log('Name updated');
     },
     editEmail: function editEmail(e) {
       e.preventDefault();
+      console.log('Email updated');
     },
     editUsername: function editUsername(e) {
       e.preventDefault();
+      console.log('Username updated');
     }
-  },
-  mounted: function mounted() {
-    console.log('Component mounted.');
   }
 });
 

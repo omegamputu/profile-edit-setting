@@ -136,16 +136,16 @@
             //
             editName: function(e) {
                 e.preventDefault()
+                console.log('Name updated')
             },
             editEmail: function (e) {
                 e.preventDefault();
+                console.log('Email updated')
             },
             editUsername: function (e) {
                 e.preventDefault()
+                console.log('Username updated')
             }
-        },
-        mounted() {
-            console.log('Component mounted.')
         }
     }
 </script>
